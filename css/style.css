@@ -13,6 +13,8 @@
     --primary: #6d28d9;
 }
 
+@import url("https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css");
+
 body {
     background-color: #eaeef2;
     color: var(--text-color);
@@ -70,7 +72,7 @@ a:hover {
 
 .header__content {
     align-items: center;
-    background: url("/img/bg_header.svg") no-repeat right 80px center;
+    background: url("https://kollus-service.github.io/catenoid-support-kr/img/bg_header.svg") no-repeat right 80px center;
     background-size: auto;
     display: flex;
     flex: 1;
@@ -146,7 +148,7 @@ a:hover {
 }
 
 .product__doc-link a {
-    background: url("/img/icon-arrow-right.svg") no-repeat right center;
+    background: url("https://kollus-service.github.io/catenoid-support-kr/img/icon-arrow-right.svg") no-repeat right center;
     color: var(--primary);
     transition: transform .2s ease-in-out;
 }
