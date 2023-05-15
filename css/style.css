@@ -202,7 +202,7 @@ a:hover {
     }
 
     .header__content {
-        background: url("/img/bg_header.svg") no-repeat right 80px center;
+        background: url("https://kollus-service.github.io/catenoid-support-kr/img/bg_header.svg") no-repeat right 80px center;
         background-position: right 0 center;
         background-size: contain;
         margin-bottom: 24px;
